@@ -1,7 +1,7 @@
 - 👋 Hi, I’m youssefmohamedd
-- 👀 I’m interested in python and Backend Development
-- 🌱 I’m currently learning odoo , Django RestApi
-- 💞️ I’m looking to collaborate on Python Developer | Backend Django
+- 👀 I’m interested in Data Analyst and Bi
+- 🌱 I’m currently learning Data Engineering
+- 💞️ I’m looking to Data Analyst | Data Engineering
 - 📫 How to reach me (+201210181268) (ymohamed10444@gmail.com)
 
 <!---
