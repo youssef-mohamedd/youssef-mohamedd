@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef Mohamed</h1>
-<h3 align="center">Java Developer | Spring Enthusiast</h3>
+<h3 align="center">Product Owner</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498DB&width=435&lines=Backend+Developer;Problem+Solver;Clean+Code+Advocate" alt="Typing Animation" />
