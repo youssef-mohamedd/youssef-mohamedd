@@ -2,10 +2,10 @@
 <h3 align="center">Product Owner | Odoo Functional Consultant</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498DB&width=435&lines=Odoo+Implementation+Expert;Business+Process+Optimizer;Vibe+Coder+%F0%9F%8E%A7;Problem+Solver" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498DB&width=435&lines=Jr.+Odoo+Implementation;Business+Process+Optimizer;Vibe+Coder+%F0%9F%8E%A7;Problem+Solver" alt="Typing Animation" />
 </div>
 
-<h3>📫 Connect with me:</h3>
+<h3> Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/youssef-mohamedd/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<h3>🛠️ Core Expertise:</h3>
+<h3> Core Expertise:</h3>
 <p align="left">
   <!-- Odoo & ERP -->
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Agile-Scrum-2496ED?style=for-the-badge" alt="Agile/Scrum"/>
 </p>
 
-<h3>💻 Vibe Coding Stack:</h3>
+<h3> Vibe Coding Stack:</h3>
 <p align="left">
   <!-- Vibe Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -45,9 +45,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-<h3>🚀 What I Do:</h3>
+<h3> What I Do:</h3>
 
-- 🔧 **Odoo Implementation** - End-to-end ERP deployment & customization
-- 📊 **Business Process Optimization** - Mapping workflows to Odoo solutions  
-- 🎯 **Product Ownership** - Bridging business needs with technical delivery
-- ⚡ **Vibe Coding** - Quick scripts & automations that just work
+-  **Odoo Implementation** - End-to-end ERP deployment & customization
+-  **Business Process Optimization** - Mapping workflows to Odoo solutions  
+-  **Product Ownership** - Bridging business needs with technical delivery
+-  **Vibe Coding** - Quick scripts & automations that just work
