@@ -2,7 +2,7 @@
 <h3 align="center">Product Owner | Odoo Functional Consultant</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498DB&width=435&lines=Jr.+Odoo+Implementation;Business+Process+Optimizer;Vibe+Coder+%F0%9F%8E%A7;Problem+Solver" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498DB&width=435&lines=Jr.+Odoo+Implementor;Business+Process+Optimizer;Vibe+Coder+%F0%9F%8E%A7;Problem+Solver" alt="Typing Animation" />
 </div>
 
 <h3> Connect with me:</h3>
