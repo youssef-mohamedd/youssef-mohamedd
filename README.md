@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Youssef Mohamed</h1>
-<h3 align="center">Product Owner | Odoo Functional Consultant</h3>
+<h3 align="center">Product Owner @ NYOTA Studio | Business Analyst | Odoo ERP (HR & Payroll)</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498DB&width=435&lines=Jr.+Odoo+Implementor;Business+Process+Optimizer;Vibe+Coder+%F0%9F%8E%A7;Problem+Solver" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498DB&width=435&lines=Product+Owner;Business+Analyst;Odoo+HR+%26+Payroll;Ships+to+App+Store+%26+Google+Play" alt="Typing Animation" />
 </div>
 
 <h3> Connect with me:</h3>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Agile-Scrum-2496ED?style=for-the-badge" alt="Agile/Scrum"/>
 </p>
 
-<h3> Vibe Coding Stack:</h3>
+<h3> Technical Toolkit:</h3>
 <p align="left">
   <!-- Vibe Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -45,9 +45,16 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
+<h3> Products I Shipped:</h3>
+
+-  **Tie Work** - HR & workforce SaaS (leaves, attendance, loans, payroll) on Odoo + Flutter, live on Google Play and the App Store
+-  **Tie Driver** - Field service SaaS with real-time reporting and GPS tracking, live on Google Play and the App Store
+-  **Manpower** - Event workforce app, from greenfield to production, live on Google Play and the App Store
+-  **Palm Tree** - Event website for Ithra (Saudi Aramco)
+
 <h3> What I Do:</h3>
 
 -  **Odoo Implementation** - End-to-end ERP deployment & customization
 -  **Business Process Optimization** - Mapping workflows to Odoo solutions  
 -  **Product Ownership** - Bridging business needs with technical delivery
--  **Vibe Coding** - Quick scripts & automations that just work
+-  **Automation** - Quick scripts & automations that just work
