@@ -47,9 +47,9 @@
 
 <h3> Products I Shipped:</h3>
 
--  **Tie Work** - HR & workforce SaaS (leaves, attendance, loans, payroll) on Odoo + Flutter, live on Google Play and the App Store
--  **Tie Driver** - Field service SaaS with real-time reporting and GPS tracking, live on Google Play and the App Store
--  **Manpower** - Event workforce app, from greenfield to production, live on Google Play and the App Store
+-  **Tie Work** - HR & workforce SaaS (leaves, attendance, loans, payroll) on Odoo + Flutter: [App Store](https://apps.apple.com/us/app/tie-works/id6760614086) · [Google Play](https://play.google.com/store/apps/details?id=com.nyota.tie_work)
+-  **Tie Driver** - Field service SaaS with real-time reporting and GPS tracking: [App Store](https://apps.apple.com/us/app/tie-driver/id6758572556) · [Google Play](https://play.google.com/store/apps/details?id=com.nyota.tie_driver)
+-  **Manpower** - Event workforce app, from greenfield to production: [App Store](https://apps.apple.com/us/app/nyota-manpower/id6760614579) · [Google Play](https://play.google.com/store/apps/details?id=com.nyota.manpower)
 -  **Palm Tree** - Event website for Ithra (Saudi Aramco)
 
 <h3> What I Do:</h3>
